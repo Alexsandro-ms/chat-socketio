@@ -34,7 +34,7 @@ npm install
 
 O chat é bastante simples e possui uma interface minimalista. No lado esquerdo da tela, há um menu com o título "Chat" e um ícone de balão de conversa que, ao ser clicado, atualiza a página. No lado direito da tela, há uma área onde são exibidas as mensagens do chat e uma área onde o usuário pode inserir suas mensagens e enviar para o chat.
 
-Para enviar uma mensagem, basta digitar o texto no campo de mensagem, seu usernmae e clicar no botão "Enviar". As mensagens serão exibidas na área de mensagens e serão enviadas para todos os usuários conectados ao chat.
+Para enviar uma mensagem, basta digitar o texto no campo de mensagem, seu username e clicar no botão "Enviar". As mensagens serão exibidas na área de mensagens e serão enviadas para todos os usuários conectados ao chat.
 
 #### Considerações finais
 
