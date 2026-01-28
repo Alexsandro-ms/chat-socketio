@@ -36,6 +36,9 @@ O chat é bastante simples e possui uma interface minimalista. No lado esquerdo 
 
 Para enviar uma mensagem, basta digitar o texto no campo de mensagem, seu username e clicar no botão "Enviar". As mensagens serão exibidas na área de mensagens e serão enviadas para todos os usuários conectados ao chat.
 
+<img width="1915" height="953" alt="image" src="https://github.com/user-attachments/assets/4a8bf0f2-fee4-4a2f-a7b2-425de0392a2e" />
+
+
 #### Considerações finais
 
 Este é um projeto bastante simples e pode ser utilizado como base para o desenvolvimento de um chat mais completo. O Socket.io é uma excelente biblioteca para a comunicação em tempo real entre cliente e servidor e possui diversas funcionalidades que podem ser exploradas em projetos mais complexos.
